@@ -29,7 +29,7 @@ int main() {
     int filas, columnas;
 
     // Obtener dimensiones de la matriz
-    printf("Ingrese el número de sadasdadadfilas: ");
+    printf("Ingrese el número de sadafilas: ");
     scanf("%d", &filas);
     printf("Ingrese el número de columnas: ");
     scanf("%d", &columnas);
